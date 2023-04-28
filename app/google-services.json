@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956346064724",
+    "project_id": "realtime-exm",
+    "storage_bucket": "realtime-exm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956346064724:android:3f802290cff74b0b08b2c1",
+        "android_client_info": {
+          "package_name": "com.example.realtime_exm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956346064724-9rstuncbv1e6k3qg0ihhrg60t3grsihn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYe5zLMh2I0PmQzrCMH5-OkeelMu9CMRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956346064724-9rstuncbv1e6k3qg0ihhrg60t3grsihn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
